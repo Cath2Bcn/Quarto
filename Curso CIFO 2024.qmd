@@ -5,7 +5,7 @@ format: html
 
 ## VIRTUALBOX de Oracle
 
-Instalar 1 Virtual Machine:
+### Instalar una Virtual Machine:
 
 -   Need 250 Gb
 -   Download .ISO (ej. Linux Mint 21.2)
@@ -25,4 +25,39 @@ Instalar 1 Virtual Machine:
 
 Instalar 1 Virtual Machine:
 
--   Need 250 Gb
+## SCRUM
+-   Planificar
+-   Ejecutar
+-   Revisar
+-   Reflexionar (Retro)(Feedback)
+
+## UML
+
+
+## JAVA
+-   ?SE vs EE: Basic vs Para hacer Webs?
+### MOOC
+
+## GIT/GITHUB
+
+
+## MINDSET
+### Aprendizaje
+-   picnic - aprox - superficial
+-   aprofundizar - mecanismo
+-   consolidar - documentar
+### Energy
+-   problema Simple (step by step)
+-   problema Complicado (replicable)
+-   Problema Complejo (a medida)
+
+## Arquitectura
+### modelo MVC (Model-View-Controller)
+### de clase
+FRONT(React)--(APIRest)--SERVER(Springboot)--(JPA)--DBs(SQL, no SQL) 
+
+## Vocabulario
+-   IDE: application (ej. Idea)
+-   DevOps: equipo de deployment
+-   Maven: gestor de libraries/paquetes
+-   FullStack: server, debil pero completo

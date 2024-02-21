@@ -1,0 +1,25 @@
+---
+title: "Curso CIFO 2024"
+format: html
+---
+
+## VIRTUALBOX de Oracle
+
+Instalar 1 Virtual Machine:
+
+-   Need 250 Gb
+-   Download .ISO (ej. Linux Mint 21.2)
+-   Create new machine\> name, ubicacion SSD, iso
+-   mini 20Gb de RAM, 4 cpu, disco duro 250Gb
+-   Install with Codecs privados (para imagenes, videos ; interpreta los .jpg)
+-   Install Gaest Additions (para varias pantallas & cie)
+
+## LINUX
+
+Bash: lenguaje de programacion de Linux (ej. \$sudo)
+
+## QUARTO
+
+Instalar 1 Virtual Machine:
+
+-   Need 250 Gb

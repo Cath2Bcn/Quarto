@@ -16,7 +16,7 @@ Instalar 1 Virtual Machine:
 
 ## LINUX
 
-## BASH: 
+### BASH: 
 -   lenguaje de programacion de Linux (ej. \$sudo)
 -   puede buscar dentro de los ficheros
 -   ejecucion en terminal: $ ./name.sh

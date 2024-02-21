@@ -16,10 +16,13 @@ format: html
 
 ## LINUX
 
-### BASH: 
+### BASH
 -   lenguaje de programacion de Linux (ej. \$sudo)
 -   puede buscar dentro de los ficheros
--   ejecucion en terminal: $ ./name.sh
+$ ./name.sh : para ejecutar una aplicacion en terminal
+$ sudo apt-get install <name> : para instalar aplicaciones
+$ quarto --version
+
 
 ## QUARTO
 
@@ -35,7 +38,11 @@ Instalar 1 Virtual Machine:
 
 
 ## JAVA
--   ?SE vs EE: Basic vs Para hacer Webs?
+-   ?SE vs EE: Basic vs Para hacer Webs? 
+### Install JDK
+-   $ sudo update-java-alternatives --list : para ver los jdks instalados
+-   $ sudo apt-get install openjdk-17-jdk 
+
 ### MOOC
 
 ## GIT/GITHUB
@@ -52,12 +59,21 @@ Instalar 1 Virtual Machine:
 -   Problema Complejo (a medida)
 
 ## Arquitectura
-### modelo MVC (Model-View-Controller)
+### modelo MVC 
+Model-View-Controller(server)
 ### de clase
-FRONT(React)--(APIRest)--SERVER(Springboot)--(JPA)--DBs(SQL, no SQL) 
+FRONT(React)--(APIRest)--SERVER(Springboot)--(JPA)--DBs(SQL, no SQL, cloud)
+### ROS/ROC
+ROS: html se genefra en el Server, no hay APIRest
+ROC: html se genera en el Client via APIRest
 
 ## Vocabulario
--   IDE: application (ej. Idea)
+-   IDE: application/programa (ej. Idea)
 -   DevOps: equipo de deployment
 -   Maven: gestor de libraries/paquetes
 -   FullStack: server, debil pero completo
+-   server = pc conectado
+-   SPA: Simple Page Application 
+-   MPA: Multiple Pages Application?
+-   ROS: Render On Server
+-   ROC: Render on Client

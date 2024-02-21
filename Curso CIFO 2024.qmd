@@ -6,7 +6,6 @@ format: html
 ## VIRTUALBOX de Oracle
 
 ### Instalar una Virtual Machine:
-
 -   Need 250 Gb
 -   Download .ISO (ej. Linux Mint 21.2)
 -   Create new machine\> name, ubicacion SSD, iso
@@ -25,8 +24,9 @@ $ quarto --version
 
 
 ## QUARTO
+https://quarto.org/docs/authoring/markdown-basics.html
 
-Instalar 1 Virtual Machine:
+
 
 ## SCRUM
 -   Planificar
@@ -46,7 +46,7 @@ Instalar 1 Virtual Machine:
 ### MOOC
 
 ## GIT/GITHUB
-
+https://code.visualstudio.com/docs/sourcecontrol/overview
 
 ## MINDSET
 ### Aprendizaje

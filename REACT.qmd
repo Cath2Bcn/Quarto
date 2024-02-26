@@ -1,0 +1,44 @@
+---
+title: "REACT Notes - CIFO 2024"
+format: html
+---
+
+
+REACT is a <b>JavaScript library</b> for <b>rendering</b> little, reusable <b>components</b> that compose the user interfaces (UI).
+
+
+## React Component
+
+-   it-s a <b>JavaScript function.</b>
+-   it-s predictable
+
+
+## Component syntax
+
+-   Import dependencies and files
+-   Data
+-   <b>export default function</b> Name () //only one by module
+    { // in JavaScript
+
+        -   Hooks definitions: const [var, fct-setter] = usestate (default value)
+        -   Area de negocio/Objects: (ej. handle functions) const handleFct = (event) => {fct/setter}
+
+        <b>return</b> ( // to render / in html + css
+            <> //Fragment
+                onXXX={handleFct} //Trigger
+            </>
+        );
+    }
+
+
+## React JS
+
+-   Only to Render html applying specific css, not to design css.
+-   All tags should be closed
+-   Using camelCase, without special characters
+-   JS between Curly Braces ; for example, for variables: {name} ; for css code: style = {{backgroundColor: 'black'}}
+
+
+## Props
+
+-   = Data, from a Parent component to its Child

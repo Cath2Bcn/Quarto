@@ -42,3 +42,4 @@ REACT is a <b>JavaScript library</b> for <b>rendering</b> little, reusable <b>co
 ## Props
 
 -   = Data, from a Parent component to its Child
+-   are Object with key:value pairs of data: ej. const objectName = {name1: 'value', name2: {...}};

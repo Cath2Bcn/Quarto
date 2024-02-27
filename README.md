@@ -1,0 +1,2 @@
+- fichero REACT: notas del curso relativas a React
+- fichero Curso 2024: otras notas del curso
